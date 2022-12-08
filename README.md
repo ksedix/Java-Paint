@@ -23,5 +23,5 @@ The 4 drawing modes are: pencil, dot, oval and rectangle.
 ## How To Run
 
 There are 2 ways to run the program:
-- Download Paint.jar in the project folder and run it on your computer
-- Clone the project and run Paint.java
+- Download **Paint.jar** in the project folder and run it on your computer
+- Clone the project and run **Paint.java**
