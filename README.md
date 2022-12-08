@@ -3,7 +3,7 @@ A paint application created in Java using Swing and AWT libraries. The project f
 
 ## Preview
 
-![preview of application](paint_preview.png)
+![paint_preview](https://user-images.githubusercontent.com/76788207/206437570-76096dd0-3b53-4867-a89b-e016d523af2e.png)
 
 ## User Manual
 
