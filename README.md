@@ -1,5 +1,6 @@
 # Java-Paint
-A paint application created in Java using Swing and AWT libraries. The project follows the Model-View-Controller design pattern.
+A paint application created in Java using Swing and AWT libraries. The project follows the Model-View-Controller design pattern.  
+Tutorial for making the app: https://youtu.be/Gs7Gj3xoyko
 
 ## Preview
 
